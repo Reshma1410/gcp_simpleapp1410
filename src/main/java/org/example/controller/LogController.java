@@ -8,7 +8,7 @@ public class LogController {
 
     @GetMapping("/greet")
     public String  greetAPI(){
-        return "Welcome to reshma's application";
+        return "Welcom to reshma's application";
     }
 
 }
